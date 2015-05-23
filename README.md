@@ -1,4 +1,4 @@
-Betakore
+Betakore [![Build Status](https://travis-ci.org/Openkore-Brasil/Betakore.svg?branch=master)](https://travis-ci.org/Openkore-Brasil/Betakore)
 ====
 
 Esse repositório é um mirror do repositório oficial que pode ser encontrado atualmente no link: https://code.google.com/p/betakore
