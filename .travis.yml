@@ -1,0 +1,10 @@
+language: perl
+
+install: true
+
+perl:
+  - "5.12.3"
+
+branches:
+  only:
+    - master
